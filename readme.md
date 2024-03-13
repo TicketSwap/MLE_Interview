@@ -6,7 +6,7 @@
 
 </div>
 
-This project is contains 4 problems. Your code doesn't need to run, but it should be clear how it would be run. Please use Python syntax. The questions are contained in the `questions.ipynb` file located in this directory. You'll need to load up the notebook to see the questions. It's assumed you have python installed on your system. 
+This project contains 4 problems. Your code doesn't need to run, but it should be clear how it would be run. Please use Python syntax. The questions are contained in the `questions.ipynb` file located in this directory. You'll need to load up the notebook to see the questions. It's assumed you have python installed on your system. 
 
 ## Installing JupyterLab
 JupyterLab can be installed using pip, Python’s package manager. To install JupyterLab, open your terminal and run:
