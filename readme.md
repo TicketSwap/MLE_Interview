@@ -64,7 +64,7 @@ jupyter lab
 If you are using VSCode, you can install the extension `Jupyter` by Microsoft. Once installed, you can open the `questions.ipynb` file and run the notebook from there.
 
 ## Submitting your work
-Your work should be submitted by attaching the questions.ipynb file to the email linked with this repository.
+Your work should be submitted by attaching the `questions.ipynb` file to the email linked with this repository.
 
 > [!CAUTION]  
 > Ensure the file is saved before sending it. Please do not include any additional files or compress the file using rar, zip, or tar formats.
